@@ -12,7 +12,7 @@ export default function Navigation() {
     >
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
         <motion.div className="text-2xl font-bold text-foreground" whileHover={{ scale: 1.05 }}>
-          Air Purifier
+          Filters
         </motion.div>
         <div className="flex gap-8 items-center">
           <a href="#features" className="text-foreground/60 hover:text-foreground transition">
